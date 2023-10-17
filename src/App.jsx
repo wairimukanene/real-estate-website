@@ -19,8 +19,8 @@ function App() {
       <Residencies/>
       <Value/>
       <Contact/>
-      {/* <GetStarted/> */}
-      {/* <Footer/> */}
+      <GetStarted/>
+      <Footer/>
     </div>
   );
 }
