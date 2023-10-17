@@ -58,7 +58,7 @@ const Contact = () => {
 
                         </div>
                         <div className="flexColStart detail">
-                            <span className='primaryText'> Video Call</span> 
+                            <span className='primaryText'> VideoCall</span> 
                             <span className='secondaryText'>0710789678</span>
                         </div>
                     </div>
